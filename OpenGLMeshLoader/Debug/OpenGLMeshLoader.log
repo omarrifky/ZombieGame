@@ -1,0 +1,19 @@
+﻿  OpenGLMeshLoader.cpp
+c:\users\lenovo\desktop\zombie game\openglmeshloader\texturebuilder.h(27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\lenovo\desktop\zombie game\openglmeshloader\texturebuilder.h(28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\lenovo\desktop\zombie game\openglmeshloader\openglmeshloader.cpp(447): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\lenovo\desktop\zombie game\openglmeshloader\openglmeshloader.cpp(453): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\lenovo\desktop\zombie game\openglmeshloader\openglmeshloader.cpp(459): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\lenovo\desktop\zombie game\openglmeshloader\openglmeshloader.cpp(1087): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\lenovo\desktop\zombie game\openglmeshloader\openglmeshloader.cpp(1088): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\lenovo\desktop\zombie game\openglmeshloader\openglmeshloader.cpp(1091): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\lenovo\desktop\zombie game\openglmeshloader\openglmeshloader.cpp(1092): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\lenovo\desktop\zombie game\openglmeshloader\openglmeshloader.cpp(1204): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\lenovo\desktop\zombie game\openglmeshloader\openglmeshloader.cpp(1205): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\lenovo\desktop\zombie game\openglmeshloader\openglmeshloader.cpp(1207): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\lenovo\desktop\zombie game\openglmeshloader\openglmeshloader.cpp(1208): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> C:\Users\Lenovo\Desktop\Zombie Game\OpenGLMeshLoader\Debug\OpenGLMeshLoader.exe
